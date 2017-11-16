@@ -20,3 +20,7 @@ Issues are designed to provide a space where community members and Mozilla staff
 * Aurelia and Ann Marie will triage and label these issues upon submission
 * Aurelia and Ann Marie will tag fellows for whom that issue is relevant and further promote the issue in Slack
 * Conversation on issue processing and fulfillment will continue until the issue can be closed.
+
+There are some handy labels you can use to tag your issue according to your request, feel free to add those:
+
+![labels](https://i.imgur.com/qECPaVR.png)
