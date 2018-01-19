@@ -34,8 +34,8 @@
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 `now-boarding` |    | https://github.com/libscie/now-boarding | A modern onboarding module for researchers about new topics in research.
-`profile-prototype` | [🚂choo](https://github.com/choojs/choo), [💾Dat](https://github.com/datproject/dat), [Beaker](https://github.com/beakerbrowser/beaker) | https://github.com/libscie/profile-prototype | Building a decentralized scholarly communication infrastructure that does away with journals, publication bias, access issues and much more (small goals).
-`datr` | [R](https://cran.r-project.org/), [💾Dat](https://github.com/datproject/dat) | https://github.com/libscie/datr | An R package to interface with the p2p Dat network
+`libscie-api` | [💾Dat](https://github.com/datproject/dat-node), [Beaker](https://github.com/beakerbrowser/webdb) | https://github.com/libscie/libscie-api | Building a decentralized scholarly communication infrastructure that does away with journals, publication bias, access issues and much more (small goals). This repository builds the API needed to do so (Electron app forthcoming)
+`datr` | [R](https://cran.r-project.org/), [💾Dat](https://github.com/datproject/dat), [💾Dat-node](https://github.com/datproject/dat-node) | https://github.com/libscie/datr | An R package to interface with the p2p Dat network
 `osfr` | [R](https://cran.r-project.org/), [Open Science Framework](https://osf.io) | https://github.com/chartgerink/osfr | An R package to interface with the Open Science Framework
 
 #### TRAININGS
