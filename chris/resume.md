@@ -34,17 +34,22 @@
 
 
 #### PROJECTS
-TITLE | TECH USED | LINK | DESCRIPTION
------ | --------- | ---- | ------------
-`now-boarding` |    | https://github.com/libscie/now-boarding | A modern onboarding module for researchers about new topics in research.
-`libscie-api` | [💾Dat](https://github.com/datproject/dat-node), [Beaker](https://github.com/beakerbrowser/webdb) | https://github.com/libscie/libscie-api | Building a decentralized scholarly communication infrastructure that does away with journals, publication bias, access issues and much more (small goals). This repository builds the API needed to do so (Electron app forthcoming)
-`datr` | [R](https://cran.r-project.org/), [💾Dat](https://github.com/datproject/dat), [💾Dat-node](https://github.com/datproject/dat-node) | https://github.com/libscie/datr | An R package to interface with the p2p Dat network
-`osfr` | [R](https://cran.r-project.org/), [Open Science Framework](https://osf.io) | https://github.com/chartgerink/osfr | An R package to interface with the Open Science Framework
+TITLE | TECH USED | LINK | DESCRIPTION | VERSION
+----- | --------- | ---- | ------------ | -------
+`now-boarding` |    | https://github.com/libscie/now-boarding | A modern onboarding module for researchers about new topics in research. | `v-.-.-`
+`libscie-api` | [💾Dat](https://github.com/datproject/dat-node), [Beaker](https://github.com/beakerbrowser/webdb) | https://github.com/libscie/libscie-api | Building a decentralized scholarly communication infrastructure that does away with journals, publication bias, access issues and much more (small goals). This repository builds the API needed to do so (Electron app forthcoming) | `v-.-.-`
+`datr` | [R](https://cran.r-project.org/), [💾Dat](https://github.com/datproject/dat), [💾Dat-node](https://github.com/datproject/dat-node) | https://github.com/libscie/datr | An R package to interface with the p2p Dat network | `v-.-.-`
+`osfr` | [R](https://cran.r-project.org/), [Open Science Framework](https://osf.io) | https://github.com/chartgerink/osfr | An R package to interface with the Open Science Framework | `v-.-.-`
+`safecastr` | [SafeCast API](https://api.safecast.org/) | https://github.com/chartgerink/safecastr | An R package to retrieve Safecast data | `v-.-.-`
 
 #### TRAININGS
+
+See events above.
   
 #### BLOGS
 
 *From most recent to least recent*
 
-* [Copyright and Licenses in Open Access Publishing](https://medium.com/@chartgerink)
+* [OK Google: Delete My Account (No Wait. No Really.)](https://medium.com/read-write-participate/ok-google-delete-my-account-no-wait-no-really-a0f8bbd26265)
+* [Concerns About Blockchain for Science](https://medium.com/read-write-participate/concerns-about-blockchain-for-science-1540c4ac9bdb)
+* [Copyright and Licenses in Open Access Publishing](https://medium.com/read-write-participate/copyright-and-licenses-in-open-access-publishing-da73e0ca8ed3)
