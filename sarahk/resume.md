@@ -17,9 +17,20 @@ As part of the 2017 Open Web Fellows program, I completed/participated in the fo
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 [Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
+[Internet Governance Forum, Geneva](http://www.intgovforum.org/)
+Panels
+Panels: 
+  * [How Digital activists are shaping the evolution of the Internet: the voice of civil society in ICANN](https://igf2017.sched.com/event/CR5e/how-digital-activists-are-shaping-the-evolution-of-the-internet-the-voice-of-civil-society-in-icann)
+  *[Open Source: Defending Freedoms in the Digital Future](https://igf2017.sched.com/event/CTsM/open-source-defending-freedoms-in-the-digital-future-ws8)
+  *[Redefining Rights for a Gender Inclusive Networked Future](https://igf2017.sched.com/event/CTt0/redefining-rights-for-a-gender-inclusive-networked-future-ws102)
+  | Geneva, Switzerland | December 2017 | Panelist
 
 Other related events:
-* [Internet Governance Forum, Geneva](http://www.intgovforum.org/), Switzerland, December 2017, Panelist and Internet Society Ambassador
+* [Internet Governance Forum, Geneva](http://www.intgovforum.org/), Switzerland, December 2017
+  Panels: 
+  * [How Digital activists are shaping the evolution of the Internet: the voice of civil society in ICANN](https://igf2017.sched.com/event/CR5e/how-digital-activists-are-shaping-the-evolution-of-the-internet-the-voice-of-civil-society-in-icann)
+  *[Open Source: Defending Freedoms in the Digital Future](https://igf2017.sched.com/event/CTsM/open-source-defending-freedoms-in-the-digital-future-ws8)
+  *[Redefining Rights for a Gender Inclusive Networked Future](https://igf2017.sched.com/event/CTt0/redefining-rights-for-a-gender-inclusive-networked-future-ws102)
 * [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 - Abu Dhabi, United Arab Emirates and 61, San Juan, Puerto Rico
 
 #### PROJECTS
