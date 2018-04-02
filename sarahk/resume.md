@@ -3,7 +3,7 @@
 ### Personal Details:
 
 #### Affiliation:
-[Research ICT Africa] (https://researchictafrica.net/), Open Web Fellow
+[Research ICT Africa](https://researchictafrica.net/), Open Web Fellow
 
 #### Contact:
 * **Email**: [sarahk@mozillafoundation.org](mailto:sarahk@mozillafoundation.org)
