@@ -16,7 +16,7 @@ As part of the 2017 Open Web Fellows program, I completed/participated in the fo
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-Academic Colloquim by Open Observatory of Network Interference (OONI) (http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
+[Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
 
 Other related events:
 
