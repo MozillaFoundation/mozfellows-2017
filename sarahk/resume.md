@@ -8,7 +8,7 @@
 #### Contact:
 * **Email**: [sarahk@mozillafoundation.org](mailto:sarahk@mozillafoundation.org)
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
-* **GitHub**: [@MsKiden] (https://github.com/MsKiden)
+* **GitHub**: [@MsKiden](https://github.com/MsKiden)
 
 As part of the 2017 Open Web Fellows program, I completed/participated in the following:
 
