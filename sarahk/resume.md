@@ -19,9 +19,10 @@ Event | Location | Date | Role
 Academic Colloquim by Open Observatory of Network Interference (OONI) (http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
 
 Other related events:
+
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-Internet Governance Forum | Geneva, Switzerland | December 2017 | Panelist and Internet Society Ambassador
+Internet Governance Forum | Geneva, Switzerland | December 2017 | Panelist and Internet Society Ambassador |
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
