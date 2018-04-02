@@ -29,6 +29,9 @@ TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 
 #### TRAININGS
+Training | Location | Date | Role
+----- | -------- | ---- | -----
+[Campus Network Security](https://workshops.renu.ac.ug/2017/renu-muni-cns/) | Arua, Uganda | October 2017 | Instructor |
   
 #### BLOGS
 * [Introducing the 2017 Moz Fellows: Sarah Kiden](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7)
