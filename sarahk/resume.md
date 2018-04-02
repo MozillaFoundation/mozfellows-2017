@@ -19,10 +19,8 @@ Event | Location | Date | Role
 [Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
 
 Other related events:
-
-Event | Location | Date | Role
------ | -------- | ---- | -----
-Internet Governance Forum | Geneva, Switzerland | December 2017 | Panelist and Internet Society Ambassador |
+*[Internet Governance Forum, Geneva](http://www.intgovforum.org/), Switzerland, December 2017, Panelist and Internet Society Ambassador
+*[Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 - Abu Dhabi, United Arab Emirates and 61, San Juan, Puerto Rico
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
