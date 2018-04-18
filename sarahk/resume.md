@@ -25,7 +25,7 @@ Other related events:
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-Africa Internet Measurements | GitHub | [GitHub repo](https://github.com/MsKiden/africa-internet-measurements) | Project under [Mozilla Open Leadership Program](https://mozilla.github.io/leadership-training/) - Cohort 5 (and Cohort C). Project also participating in the [Global Sprint](https://mozilla.github.io/global-sprint/).
+Africa Internet Measurements | GitHub | [GitHub repo](https://github.com/MsKiden/africa-internet-measurements) | Project under [Mozilla Open Leadership Program 2018](https://mozilla.github.io/leadership-training/) - Cohort 5 (and Cohort C). Project also participating in the [Global Sprint](https://mozilla.github.io/global-sprint/).
 
 #### TRAININGS
 Training | Location | Date | Role
