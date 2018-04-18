@@ -25,7 +25,7 @@ Other related events:
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-Broadband Performance and Internet Measurements | GitHub | [GitHub repo](https://github.com/MsKiden/africa-internet-measurements) | Project under [Mozilla Open Leadership Program 2018](https://mozilla.github.io/leadership-training/) - Cohort 5 (and Cohort C). Project also in the [2018 Global Sprint](https://mozilla.github.io/global-sprint/).
+Broadband Performance and Internet Measurements | GitHub, CartoDB, SQL, Spreadsheets | [GitHub repo](https://github.com/MsKiden/africa-internet-measurements) | Project under [Mozilla Open Leadership Program 2018](https://mozilla.github.io/leadership-training/) - Cohort 5 (and Cohort C). Project also in the [2018 Global Sprint](https://mozilla.github.io/global-sprint/).
 Promoting Child Online Protection in Uganda | |[COP Toolkit](https://internetsociety.ug/promote-online-child-safety-in-uganda-2/) | Updating the Child Online Protection Toolkit. Also planning to expand the project later this year. 
 
 #### TRAININGS
