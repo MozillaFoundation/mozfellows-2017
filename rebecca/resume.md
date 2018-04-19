@@ -25,12 +25,18 @@ Event | Location | Date | Role
 
 
 #### PROJECTS
+Title | Tech Used | Link | Description
+----- | -------- | ---- | -----
 How PayPal Shares Your Data | D3, JavaScript, Python | http://rebecca-ricks.com/paypal-data/ | A data visualization that shows how PayPal shares customer data with third parties and how that data is purportedly used, based on PayPal's privacy policy.
 
 #### TRAININGS & WORKSHOPS
-Oct 2017 | [Altered States: Augmented Reality (AR) and the Politics of Urban Memory](https://pioneerworks.org/classes/altered-states-augmented-reality-ar-and-the-politics-of-urban-memory/) | Taught a hands-on workshop on building AR apps that engage with the politics of space and memory.
+Title | Link | Date | Description
+----- | -------- | ---- | -----
+[Altered States: Augmented Reality (AR) and the Politics of Urban Memory](https://pioneerworks.org/classes/altered-states-augmented-reality-ar-and-the-politics-of-urban-memory/) | Oct 2017 | Taught a hands-on workshop on building AR apps that engage with the politics of space and memory.
 
 #### BLOGS & PRESS
+Date | Title | Link | Description
+----- | -------- | ---- | -----
 March 2018 | [Why Does Facebook Collecting my Data Matter? Experts Explain What it Means for Your Privacy](https://www.bustle.com/p/why-does-facebook-collecting-my-data-matter-experts-explain-what-it-means-for-your-privacy-8618434) | Bustle interviewed me to discuss Facebook, Cambridge Analytica, and data collection.
 March 2018 | [The Four Design Changes Facebook Should Really Make](https://www.fastcodesign.com/90165245/the-4-design-changes-facebook-should-really-make) | Fast Company interviewed me to discuss Facebook, Cambridge Analytica, privacy UX.
 March 2018 | [Rebecca Ricks: Documenting corporate surveillance](https://mzl.la/rebecca-ricks) | Mozilla's spotlight on my work.
