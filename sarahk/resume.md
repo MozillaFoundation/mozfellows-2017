@@ -16,11 +16,14 @@ As part of the 2017 Open Web Fellows program, I completed/participated in the fo
 
 Event | Location | Date | Role | Panels
 ----- | -------- | ---- | ----- | -----
+[RightsCon](https://www.rightscon.org/) | Toronto, Canada | May 2018 | Panelist | [Global Indigenous Ambassador Program at ICANN: Including new voices to internet policy dialogues](https://rightscon2018.sched.com/event/EHmw/global-indigenous-ambassador-program-at-icann-including-new-voices-to-internet-policy-dialogues) |
+[Africa Internet Summit](https://internetsummit.africa/) | Dakar, Senegal | May 2018 | Panelist/Facilitator | <ol><li> [An investigation into the factors affecting Internet performance in Africa: a throughput, latency, and content hosting analysis](https://researchictafrica.net/2018/05/07/an-investigation-into-the-factors-affecting-internet-performance-in-africa-a-throughput-latency-and-content-hosting-analysis/)</li><li>[Internet Measurements Workshop](https://docs.google.com/document/d/1UOv8SU8nVPDgul3U_hQaKBXV8Mgd94TaEte3s-uApj4/edit#heading=h.m5gk6v6sgdus)
 [Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant | -
 [Internet Governance Forum](http://www.intgovforum.org/) | Geneva, Switzerland | December 17 - 21, 2017 | Panelist | <ol><li>[How Digital activists are shaping the evolution of the Internet: the voice of civil society in ICANN](https://igf2017.sched.com/event/CR5e/how-digital-activists-are-shaping-the-evolution-of-the-internet-the-voice-of-civil-society-in-icann) </li> <li>[Open Source: Defending Freedoms in the Digital Future](https://igf2017.sched.com/event/CTsM/open-source-defending-freedoms-in-the-digital-future-ws8) </li> <li>[Redefining Rights for a Gender Inclusive Networked Future](https://igf2017.sched.com/event/CTt0/redefining-rights-for-a-gender-inclusive-networked-future-ws102)</li></ol>
 
 Other related events:
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 - Abu Dhabi, United Arab Emirates and 61, San Juan, Puerto Rico
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 | Abu Dhabi, United Arab Emirates | 31 Oct - 3 Nov 2017
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 61 | San Juan, Puerto Rico | 10 - 15 March 2018
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
