@@ -24,8 +24,9 @@ Event | Location | Date | Role | Panels
 Fellowship Onboarding | Toronto, Canada | September 2017 | Fellow | 
 
 Other related events:
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 | Abu Dhabi, United Arab Emirates | 31 Oct - 3 Nov 2017 |
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 61 | San Juan, Puerto Rico | 10 - 15 March 2018 |
+----- | --------- | ---- | ------------
+[Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 | Abu Dhabi, United Arab Emirates | 31 Oct - 3 Nov 2017 |
+[Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 61 | San Juan, Puerto Rico | 10 - 15 March 2018 |
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
@@ -41,4 +42,4 @@ Training | Location | Date | Role
 #### BLOGS/INTERVIEWS
 * [Introducing the 2017 Moz Fellows: Sarah Kiden](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7)
 * [Uganda's Sarah Kiden Announced As One Of The 15 New Mozilla Fellows For Science, Advocacy, And Media](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/)
-* [Speak Up Barometer Research (Uganda](http://www.dw.com/en/dw-akademie/speakup-barometer/s-42561523) - Project by DW Akademie (Germany)
+* [Speak Up Barometer Research (Uganda)](http://www.dw.com/en/dw-akademie/speakup-barometer/s-42561523) - Project by DW Akademie (Germany)
