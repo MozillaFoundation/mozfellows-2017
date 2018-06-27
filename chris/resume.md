@@ -7,7 +7,7 @@
 * [Mozilla Science Fellow](https://science.mozilla.org/) + [Liberate Science](http://libscie.org) (80%)
 
 #### Contact:
-* **Email**: [chrish@mozillafoundation.org](mailto:chrish@mozillafoundation.org)
+* **Email**: [chjh@pm.me](mailto:chjh@pm.me)
 * **Twitter**: [@chartgerink](https://twitter.com/chartgerink)
 * **GitHub**: [@chartgerink](https://github.com/chartgerink)
 * **Blog**: [Personal](http://onsnetwork.org/chartgerink/), [Medium](https://medium.com/@chartgerink)
@@ -16,6 +16,8 @@
 
 | When | What | Title | Where |
 | ---------------- | ------------- | -------------------------- | --------------------------- | 
+| 2018/06/07 | Talk | [Writing R packages](http://tilburgrteam.netlify.com/files/christ_hartgerink_r_packages.pdf ) | [Tilburg University R team](http://tilburgrteam.netlify.com/) | 
+| 2018/05/22 | Podcast | [Responsible Science: Episode 5 - The Next Generation](https://sciencedisrupt.com/podcast/responsible-science-episode-5) | [ScienceDisrupt](https://sciencedisrupt.com/) | 
 | 2018/04/20 | Talk | "As-you-go" instead of “after-the-fact”: Better practices by design | [2nd NRIN research conference](http://web.archive.org/web/20180328154356/https://www.nrin.nl/agenda/nrin-research-conference-2018/) |
 | 2018/04/14 | Talk | [Sustainable science cannot co-exist with the scientific article](https://docs.google.com/presentation/d/1g7SS6KpB8g3P8y9uqqiT-FHzxPgT8nEa5rOWT2fWzwM/) | [Creative Commons Summit](http://web.archive.org/web/20180416132555/https://ccglobalsummit2018.sched.com/event/E6vu/sustainable-science-cannot-co-exist-with-the-scientific-article) |
 | 2018/04/06 | Talk | Redesigning scholarly communication for openness | [BITSS RT2 Amsterdam](http://web.archive.org/web/20180416132633/https://www.bitss.org/wp-content/uploads/2018/02/RT2-Netherlands_Agenda.pdf) |
