@@ -1,4 +1,7 @@
-## Résumé: Sarah Kiden 	
+## Résumé: Sarah Kiden 
+* [Personal Details](#personaldetails)
+* [Contact](#contact)
+* [Events & Talks](#events&talks)
 
 ### Personal Details:
 
