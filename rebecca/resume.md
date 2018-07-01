@@ -16,6 +16,8 @@ As part of the 2017 Open Web Fellows program, I completed/participated in the fo
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+[Allied Media Conference](https://www.rightscon.org/) | Detroit, MI | June 2018 | Speaker
+[RightsCon](https://www.rightscon.org/) | Toronto, Canada | May 2018 | Panelist
 [Internet Freedom Festival](https://internetfreedomfestival.org/) | Valencia, Spain | March 2018 | Speaker
 [Eyebeam's The Forecast](https://www.eyebeam.org/events/forecast-online-panel-netneutrality/) | New York, NY | March 2018 | Panelist
 [Chaos Computer Club](https://www.ccc.de/en/home) | Leipzig, Germany | December 2017 | Attendee
