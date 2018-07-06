@@ -18,6 +18,10 @@
 | ---------------- | ------------- | -------------------------- | --------------------------- | 
 | 2018/06/07 | Talk | [Writing R packages](http://tilburgrteam.netlify.com/files/christ_hartgerink_r_packages.pdf ) | [Tilburg University R team](http://tilburgrteam.netlify.com/) | 
 | 2018/05/22 | Podcast | [Responsible Science: Episode 5 - The Next Generation](https://sciencedisrupt.com/podcast/responsible-science-episode-5) | [ScienceDisrupt](https://sciencedisrupt.com/) | 
+| 2018/05/17 | Article | [Publishers need to stop using insecure HTTP](https://opensource.com/article/18/5/scholarly-publishers-https) | [Opensource.com](https://opensource.com)
+| 2018/05/08 | Coverage | [Tilburg University wil transparante wetenschap](https://universonline.nl/2018/05/08/tilburg-university-wil-transparante-wetenschap) | [Univers](https://universonline.nl/) |
+| 2018/04/26 | Paper | [“As-You-Go” Instead of “After-the-Fact”: A Network Approach to Scholarly Communication and Evaluation](https://doi.org10.3390/publications6020021) | [Publications, MDPI](http://www.mdpi.com/journal/publications) |
+| 2018/04/24 | Talk | [Verified, shared, modular research communication with the Dat protocol](https://bit.ly/webconf-chris) | WebConf Workshop, Researcher Centric Communication]() | 
 | 2018/04/20 | Talk | "As-you-go" instead of “after-the-fact”: Better practices by design | [2nd NRIN research conference](http://web.archive.org/web/20180328154356/https://www.nrin.nl/agenda/nrin-research-conference-2018/) |
 | 2018/04/14 | Talk | [Sustainable science cannot co-exist with the scientific article](https://docs.google.com/presentation/d/1g7SS6KpB8g3P8y9uqqiT-FHzxPgT8nEa5rOWT2fWzwM/) | [Creative Commons Summit](http://web.archive.org/web/20180416132555/https://ccglobalsummit2018.sched.com/event/E6vu/sustainable-science-cannot-co-exist-with-the-scientific-article) |
 | 2018/04/06 | Talk | Redesigning scholarly communication for openness | [BITSS RT2 Amsterdam](http://web.archive.org/web/20180416132633/https://www.bitss.org/wp-content/uploads/2018/02/RT2-Netherlands_Agenda.pdf) |
